@@ -1,0 +1,6 @@
+{
+  "name": "GameVault",
+  "description": "Unlock Your Ultimate Setup — Premium gaming gear, PC components, custom PC builder, wattage calculator, and hardware storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
